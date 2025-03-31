@@ -4,7 +4,7 @@ A simple web application that allows users to convert text (often emails) into v
 ## Try it out!
 Visit the live website: [caseconvertonline.com](https://caseconvertonline.com)
 
-![case](https://github.com/user-attachments/assets/387f178f-299a-4b35-9342-9ed97fe1d20e)
+(https://github.com/user-attachments/assets/387f178f-299a-4b35-9342-9ed97fe1d20e)
 
 ## Features
 - Convert text to **Uppercase**
