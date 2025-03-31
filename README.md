@@ -15,7 +15,7 @@ Visit the live website: [caseconvertonline.com](https://caseconvertonline.com)
 ## Technologies Used
 - HTML
 - CSS
-- JavaScript
+- React
 ## Example
 - **Input**: `hello world! this is an email.`
 - **Uppercase**: `HELLO WORLD! THIS IS AN EMAIL.`
